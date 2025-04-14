@@ -1,0 +1,47 @@
+body{
+    background-color: lightslategray;
+}
+h1{
+font-size: 100px;
+color: rgb(249, 246, 246);
+background-color: black;
+text-align: center;
+}
+h2{
+    font-size: 60px;
+    color: rgb(247, 246, 246);
+    background-color: rgb(12, 10, 10);
+    text-align: center;
+}
+hr{
+    border-color: rgb(255, 98, 0);
+    background-color: rgb(15, 13, 13);
+    width: 1000px;
+    height: 10px;
+}
+h3{
+    font-size: 60px;
+    font-family: fantasy;
+    color: rgb(2, 2, 17);
+    text-align: center;
+}
+p{
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(250, 247, 247);
+    text-align: center;
+    background-color: black;
+}
+img{
+    width: 1200px;
+    height: 800px;
+    display: block;
+    margin: 40px auto;
+    border: solid 2px black;
+    border-radius: 40px;
+}
+h4{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
